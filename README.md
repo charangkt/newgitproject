@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Task Manager
 
 A small full-stack task manager: **TypeScript** frontend, **PHP 8** REST API, **SQLite** storage, deployed with Docker on Render's free tier.
@@ -68,7 +67,3 @@ docker run -p 8080:10000 task-manager   # http://localhost:8080
 3. Every push to `main` redeploys automatically.
 
 > **Note:** On Render's free plan the service sleeps after 15 minutes of inactivity (the first request afterwards takes ~30–60 s), and the disk is ephemeral, so saved tasks reset when the service redeploys or restarts.
-=======
-# newgitproject
-testing project
->>>>>>> c3e7db3ef03e3bc198947a729f1abbfc3e315541
